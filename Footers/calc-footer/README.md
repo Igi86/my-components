@@ -1,0 +1,1 @@
+Pozicionált footer, ami kalkuláció segítségével helyezi el a footert.

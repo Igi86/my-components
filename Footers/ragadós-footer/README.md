@@ -1,0 +1,1 @@
+Pozicionált footer.
