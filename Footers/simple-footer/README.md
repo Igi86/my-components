@@ -1,0 +1,1 @@
+Egyszerű Footer, pozíció megkötés nélkül.
