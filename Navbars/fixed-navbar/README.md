@@ -1,0 +1,1 @@
+Reszponzív navbar, ami nagy képernyőn fix az oldal tetején.

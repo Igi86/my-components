@@ -1,0 +1,45 @@
+body {
+  background-color: #eee;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+section {
+  max-width: 470px;
+  padding: 10px;
+  margin: 20px auto;
+  color: #333;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+h3 {
+	font-size: 24px;
+	margin-bottom: 10px;
+	font-family: Arial, san-sherif;
+}
+
+.btn{
+  display: inline-block;
+  text-decoration: none;
+  font-family: Arial, san-sherif;
+  text-align: center;
+  font-size: 1rem;
+  line-height: 1.42857143;
+  padding: .8rem 1rem;
+  margin-bottom: 10px;
+  border: 1px solid black;
+  white-space: nowrap;
+  vertical-align: middle;
+  background-color: #fff;
+	color: #333;
+}
+
+.btn:hover {
+	color: #fff;
+	background-color: #333;
+	transition: background-color .15s ease-in-out;
+}
